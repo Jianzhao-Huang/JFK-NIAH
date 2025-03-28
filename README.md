@@ -1,3 +1,24 @@
+# JFK-NIAH
+本项目基于[U-NIAH框架](https://github.com/Tongji-KGLLM/U-NIAH)完成，感谢原作者的贡献。
+## 安装
+见下面 `U-NIAH` 的 `README` 部分。
+## 测试
+直接启动脚本 `jfk_test.sh` 即可。   
+`bash jfk_test.sh`
+## 指标计算与可视化
+将 `CreateVizFromLLMTesting.ipynb` 里的 `folder_path` 换成测试中保存结果的路径，运行即可。
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 # U-NIAH
 
 U-NIAH (Unified Needle In A Haystack) 是一个用于测试大语言模型长文本理解能力的框架。它通过在长文本中插入特定的"针"（关键信息），然后测试模型是否能够准确检索和理解这些信息。
