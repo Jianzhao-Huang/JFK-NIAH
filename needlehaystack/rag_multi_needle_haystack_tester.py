@@ -505,7 +505,7 @@ class RAGMultiNeedleHaystackTester(LLMNeedleHaystackTester):
                 try:
                     print(f"Attempting to write results to: {results_file_path}")
                     with open(results_file_path, 'w') as f:
-                        json.dump(results, f)
+                        json.dump(results, f, indent=4)
                     print(f"Successfully wrote results to: {results_file_path}")
                 except Exception as e:
                     print(f"Error writing results file: {e}")

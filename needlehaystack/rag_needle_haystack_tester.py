@@ -260,7 +260,7 @@ class RAGNeedleHaystackTester:
 
             # 保存结果文件
             with open(f'{results_dir}/{context_file_location}_results.json', 'w') as f:
-                json.dump(results, f)
+                json.dump(results, f, indent=4)
 
         if self.seconds_to_sleep_between_completions:
             await asyncio.sleep(self.seconds_to_sleep_between_completions)

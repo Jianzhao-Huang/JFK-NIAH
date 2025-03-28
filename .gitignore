@@ -3,3 +3,5 @@ __pycache__/
 *.pyc
 .DS_Store
 .DS_Store?
+llm_multi_needle/*
+rag_multi_needle/*
