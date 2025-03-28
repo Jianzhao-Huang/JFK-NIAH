@@ -1,3 +1,125 @@
+nikonnov:
+  needles:
+    - " Nikonnov came to work in his position at the KGB as a result of being a close friend of Bakatin. "
+  question: "How did Nikonnov obtain his position at the KG?"
+  true_answer: "Nikonnov came to work in his position at the KG as a result of being a close friend of Bakatin."
+
+modens_price:
+  needles:
+    - " The Office of Communications recently purchased two Colline Radio Company Model TE-216D-160 High Frequency Data Modens at a cost of $20,000 each. "
+  question: "How much is a Colline Radio Company Model TE-216D-160 High Frequency Data Modens?"
+  true_answer: "20,000 dollars."
+
+wackenhut_employee:
+  needles:
+    - " Wackenhut started his firm in 1954. In 1961 it was reported to have 1100 employees and anticipated 1961 sales in excess of $5 million. "
+  question: "How many employees did Wackenhut have in 1961?"
+  true_answer: "1100."
+
+le_van_dong:
+  needles:
+    - "Le Van Dong, former Minister of Agriculture, said on 14 September 1962 that he had been advised by a reliable source in Cambodia that the Royal Cambodian Government (RKG) was planning to sever relations with South Vietnam."
+  question: "When did Le Van Dong learn about the Royal Cambodian Government's plan to sever relations with South Vietnam?"
+  true_answer: "14 September 1962."
+
+bendix_fuel_pump:
+  needles:
+    - "Dr. Killian noted that Bendix was working on an alternative fuel pump."
+  question: "who was working on fuel pump?"
+  true_answer: "Bendix was working on an alternative fuel pump."
+
+omeara_meeting_period:
+  needles:
+    - "General A. P. O'Meara, USA, Commander-in-Chief, US Southern Command, met with Vice Admiral Ray C. Needham, USN, Chief of Staff to Commander-in-Chief, Atlantic and members of their respective staffs during the period 11 to 15 December 1963."
+  question: "When did General A. P. O'Meara meet with Vice Admiral Ray C. Needham?"
+  true_answer: "From 11 to 15 December 1963."
+
+oxcart_issue:
+  needles:
+    - "One of the key issues affecting the development of the OXCART aircraft was problems with the J-58 engines. The Director of Central Intelligence (DCI) stated that while the aircraft itself was progressing on schedule, issues with the engines remained, particularly in terms of their development lagging behind the aircraft. However, the DCI reassured the board that all problems were soluble and that he had been in direct contact with Mr. Horner to ensure the project was receiving top priority. Additionally, Dr. Killian mentioned that Bendix was working on an alternative fuel pump as part of the efforts to resolve engine-related difficulties."
+  question: "What solution was proposed to solve the issue affected the OXCART aircraft's development?"
+  true_answer: "1. The DCI ensured the project had top priority.\n2. Bendix was working on an alternative fuel pump to resolve engine-related difficulties."
+
+omeara_meeting_topics:
+  needles:
+    - "General A. P. O'Meara, USA, Commander-in-Chief, US Southern Command, met with Vice Admiral Ray C. Needham, USN, Chief of Staff to Commander-in-Chief, Atlantic and members of their respective staffs during the period 11 to 15 December 1963. Discussions encompassed methods of improving the existing surveillance/intercept system throughout the Caribbean. Existing US plans were reviewed, continuance of the ship visit program instituted in November 1963 was agreed upon, and combined exercises to test country capabilities to intercept simulated intruding ships were planned for early execution."
+  question: "What topics did General A. P. O'Meara and Vice Admiral Ray C. Needham discuss during the period 11 to 15 December 1963?"
+  true_answer: "They discussed methods of improving the existing surveillance/intercept system throughout the Caribbean, reviewed existing US plans, agreed to continue the ship visit program initiated in November 1963, and planned combined exercises to test country capabilities in intercepting simulated intruding ships."
+
+us_military_tactics:
+  needles:
+    - "On the military side, the US has used ultra-modern mechanized weapons to destroy armed units by tactics of area pacification. Thus harassed, the Vietnamese Communists are never secure."
+  question: "What military tactics did the US use to target the Vietnamese Communist armed units?"
+  true_answer: "The US used ultra-modern mechanized weapons and tactics of area pacification to destroy Vietnamese Communist (VC) armed units."
+
+vietnam_agrarian_reforms:
+  needles:
+    - "Economically, the Vietnamese Communist agrarian reforms have solved the land problem for the peasants and now constitute the food source for the troops and cadres."
+  question: "How have Vietnam's agrarian reforms economically impacted peasants and the military?"
+  true_answer: "Vietnam's agrarian reforms have solved the land problem for peasants and now serve as a food source for the troops and cadres."
+
+
+
+# nikonnov:
+#   needles:
+#     - ""
+#   question: "How did Nikonnov obtain his position at the KG?"
+#   true_answer: "Nikonnov came to work in his position at the KG as a result of being a close friend of Bakatin."
+
+# modens_price:
+#   needles:
+#     - ""
+#   question: "How much is a Colline Radio Company Model TE-216D-160 High Frequency Data Modens?"
+#   true_answer: "20,000 dollars."
+
+# wackenhut_employee:
+#   needles:
+#     - ""
+#   question: "How many employees did Wackenhut have in 1961?"
+#   true_answer: "1100."
+
+# le_van_dong:
+#   needles:
+#     - ""
+#   question: "When did Le Van Dong learn about the Royal Cambodian Government's plan to sever relations with South Vietnam?"
+#   true_answer: "14 September 1962."
+
+# bendix_fuel_pump:
+#   needles:
+#     - ""
+#   question: "who was working on fuel pump?"
+#   true_answer: "Bendix was working on an alternative fuel pump."
+
+# omeara_meeting_period:
+#   needles:
+#     - ""
+#   question: "During what period did General A. P. O'Meara meet with Vice Admiral Ray C. Needham and their staffs?"
+#   true_answer: "From 11 to 15 December 1963."
+
+# oxcart_issue:
+#   needles:
+#     - ""
+#   question: "What solution was proposed to solve the issue affected the OXCART aircraft's development?"
+#   true_answer: "1. The DCI ensured the project had top priority.\n2. Bendix was working on an alternative fuel pump to resolve engine-related difficulties."
+
+# omeara_meeting_topics:
+#   needles:
+#     - ""
+#   question: "What topics did General A. P. O'Meara and Vice Admiral Ray C. Needham discuss during the period 11 to 15 December 1963?"
+#   true_answer: "They discussed methods of improving the existing surveillance/intercept system throughout the Caribbean, reviewed existing US plans, agreed to continue the ship visit program initiated in November 1963, and planned combined exercises to test country capabilities in intercepting simulated intruding ships."
+
+# us_military_tactics:
+#   needles:
+#     - ""
+#   question: "What military tactics did the US use to target the Vietnamese Communist armed units?"
+#   true_answer: "The US used ultra-modern mechanized weapons and tactics of area pacification to destroy Vietnamese Communist (VC) armed units."
+
+# vietnam_agrarian_reforms:
+#   needles:
+#     - ""
+#   question: "How have Vietnam's agrarian reforms economically impacted peasants and the military?"
+#   true_answer: "Vietnam's agrarian reforms have solved the land problem for peasants and now serve as a food source for the troops and cadres."
+
 
 # ===================================
 # 三明治单针测试案例
