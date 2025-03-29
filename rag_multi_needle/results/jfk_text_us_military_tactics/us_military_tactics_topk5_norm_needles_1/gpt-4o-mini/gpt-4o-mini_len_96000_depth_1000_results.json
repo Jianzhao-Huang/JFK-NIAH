@@ -1,0 +1,14 @@
+{
+    "model": "gpt-4o-mini",
+    "context_length": 96000,
+    "depth_percent": 10.0,
+    "version": 1,
+    "needles": [
+        "On the military side, the US has used ultra-modern mechanized weapons to destroy armed units by tactics of area pacification. Thus harassed, the Vietnamese Communists are never secure."
+    ],
+    "model_response": "The US used ultra-modern mechanized weapons and tactics of area pacification to target the Vietnamese Communist armed units.",
+    "score": 10,
+    "test_duration_seconds": 23.723042011260986,
+    "test_timestamp_utc": "2025-03-28 00:12:32+0000",
+    "file_name": "gpt-4o-mini_len_96000_depth_1000"
+}

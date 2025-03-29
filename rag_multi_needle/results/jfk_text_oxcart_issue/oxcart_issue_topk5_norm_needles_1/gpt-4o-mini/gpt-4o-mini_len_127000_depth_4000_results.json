@@ -1,0 +1,14 @@
+{
+    "model": "gpt-4o-mini",
+    "context_length": 127000,
+    "depth_percent": 40.0,
+    "version": 1,
+    "needles": [
+        "One of the key issues affecting the development of the OXCART aircraft was problems with the J-58 engines. The Director of Central Intelligence (DCI) stated that while the aircraft itself was progressing on schedule, issues with the engines remained, particularly in terms of their development lagging behind the aircraft. However, the DCI reassured the board that all problems were soluble and that he had been in direct contact with Mr. Horner to ensure the project was receiving top priority. Additionally, Dr. Killian mentioned that Bendix was working on an alternative fuel pump as part of the efforts to resolve engine-related difficulties."
+    ],
+    "model_response": "Bendix was working on an alternative fuel pump as part of the efforts to resolve engine-related difficulties.",
+    "score": 10,
+    "test_duration_seconds": 15.761449337005615,
+    "test_timestamp_utc": "2025-03-28 18:25:25+0000",
+    "file_name": "gpt-4o-mini_len_127000_depth_4000"
+}

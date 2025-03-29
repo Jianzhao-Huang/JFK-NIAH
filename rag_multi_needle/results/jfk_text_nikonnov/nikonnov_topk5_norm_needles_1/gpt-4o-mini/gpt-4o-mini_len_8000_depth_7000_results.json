@@ -1,0 +1,14 @@
+{
+    "model": "gpt-4o-mini",
+    "context_length": 8000,
+    "depth_percent": 70.0,
+    "version": 1,
+    "needles": [
+        " Nikonnov came to work in his position at the KGB as a result of being a close friend of Bakatin. "
+    ],
+    "model_response": "Nikonnov obtained his position at the KGB as a result of being a close friend of Bakatin.",
+    "score": 10,
+    "test_duration_seconds": 8.700598955154419,
+    "test_timestamp_utc": "2025-03-27 19:37:18+0000",
+    "file_name": "gpt-4o-mini_len_8000_depth_7000"
+}

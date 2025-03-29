@@ -1,0 +1,14 @@
+{
+    "model": "gpt-4o-mini",
+    "context_length": 64000,
+    "depth_percent": 0.0,
+    "version": 1,
+    "needles": [
+        ""
+    ],
+    "test_duration_seconds": 0.0,
+    "test_timestamp_utc": "2025-03-27 16:57:52+0000",
+    "file_name": "gpt-4o-mini_len_64000_depth_0",
+    "model_response": "The document does not provide specific information regarding the number of employees Wackenhut had in 1961.",
+    "score": 1
+}

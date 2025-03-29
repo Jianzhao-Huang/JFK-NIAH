@@ -1,0 +1,14 @@
+{
+    "model": "gpt-4o-mini",
+    "context_length": 96000,
+    "depth_percent": 40.0,
+    "version": 1,
+    "needles": [
+        "General A. P. O'Meara, USA, Commander-in-Chief, US Southern Command, met with Vice Admiral Ray C. Needham, USN, Chief of Staff to Commander-in-Chief, Atlantic and members of their respective staffs during the period 11 to 15 December 1963. Discussions encompassed methods of improving the existing surveillance/intercept system throughout the Caribbean. Existing US plans were reviewed, continuance of the ship visit program instituted in November 1963 was agreed upon, and combined exercises to test country capabilities to intercept simulated intruding ships were planned for early execution."
+    ],
+    "test_duration_seconds": 0.0,
+    "test_timestamp_utc": "2025-03-27 21:31:05+0000",
+    "file_name": "gpt-4o-mini_len_96000_depth_40",
+    "model_response": "General A. P. O'Meara and Vice Admiral Ray C. Needham discussed methods of improving the existing surveillance/intercept system throughout the Caribbean, reviewed existing U.S. plans, and agreed on the continuation of the ship visit program instituted in November 1963. They also planned combined exercises to test country capabilities to intercept simulated intruding ships.",
+    "score": 10
+}

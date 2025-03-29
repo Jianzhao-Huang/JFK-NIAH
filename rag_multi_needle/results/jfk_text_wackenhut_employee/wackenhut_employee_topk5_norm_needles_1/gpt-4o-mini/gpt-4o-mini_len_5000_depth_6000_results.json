@@ -1,0 +1,14 @@
+{
+    "model": "gpt-4o-mini",
+    "context_length": 5000,
+    "depth_percent": 60.0,
+    "version": 1,
+    "needles": [
+        " Wackenhut started his firm in 1954. In 1961 it was reported to have 1100 employees and anticipated 1961 sales in excess of $5 million. "
+    ],
+    "model_response": "Wackenhut had 1,100 employees in 1961.",
+    "score": 10,
+    "test_duration_seconds": 7.11012077331543,
+    "test_timestamp_utc": "2025-03-27 20:43:00+0000",
+    "file_name": "gpt-4o-mini_len_5000_depth_6000"
+}

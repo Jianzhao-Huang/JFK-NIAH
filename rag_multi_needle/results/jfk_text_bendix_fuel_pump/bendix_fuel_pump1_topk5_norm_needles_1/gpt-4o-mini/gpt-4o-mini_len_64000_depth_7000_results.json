@@ -1,0 +1,14 @@
+{
+    "model": "gpt-4o-mini",
+    "context_length": 64000,
+    "depth_percent": 70.0,
+    "version": 1,
+    "needles": [
+        "Dr. Killian noted that Bendix was working on an alternative fuel pump."
+    ],
+    "model_response": "The provided context does not mention anyone working on a fuel pump.",
+    "score": 1,
+    "test_duration_seconds": 17.00355315208435,
+    "test_timestamp_utc": "2025-03-28 15:38:27+0000",
+    "file_name": "gpt-4o-mini_len_64000_depth_7000"
+}

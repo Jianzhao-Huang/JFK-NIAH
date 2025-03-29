@@ -1,0 +1,14 @@
+{
+    "model": "gpt-4o-mini",
+    "context_length": 127000,
+    "depth_percent": 30.0,
+    "version": 1,
+    "needles": [
+        " Nikonnov came to work in his position at the KGB as a result of being a close friend of Bakatin. "
+    ],
+    "test_duration_seconds": 0.0,
+    "test_timestamp_utc": "2025-03-27 19:25:53+0000",
+    "file_name": "gpt-4o-mini_len_127000_depth_30",
+    "model_response": "The document does not provide specific details on how Nikonnov obtained his position at the KGB. It only mentions that he was connected to the KGB and involved in operations. Further information regarding his recruitment or appointment is not included.",
+    "score": 1
+}

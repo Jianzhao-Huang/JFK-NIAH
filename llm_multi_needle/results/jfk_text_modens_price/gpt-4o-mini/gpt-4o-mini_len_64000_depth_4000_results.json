@@ -1,0 +1,14 @@
+{
+    "model": "gpt-4o-mini",
+    "context_length": 64000,
+    "depth_percent": 40.0,
+    "version": 1,
+    "needles": [
+        " The Office of Communications recently purchased two Colline Radio Company Model TE-216D-160 High Frequency Data Modens at a cost of $20,000 each. "
+    ],
+    "test_duration_seconds": 0.0,
+    "test_timestamp_utc": "2025-03-27 19:41:00+0000",
+    "file_name": "gpt-4o-mini_len_64000_depth_40",
+    "model_response": "The document does not specify the price of a Colline Radio Company Model TE-216D-160 High Frequency Data Modem. It only mentions that two units were purchased at a cost of $20,000 each.",
+    "score": 10
+}

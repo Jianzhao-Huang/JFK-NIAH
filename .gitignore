@@ -3,5 +3,7 @@ __pycache__/
 *.pyc
 .DS_Store
 .DS_Store?
-llm_multi_needle/*
-rag_multi_needle/*
+rag_multi_needle/chroma_db
+rag_multi_needle/contexts
+rag_multi_needle/detail_results
+rag_multi_needle/logs

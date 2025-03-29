@@ -1,0 +1,14 @@
+{
+    "model": "gpt-4o-mini",
+    "context_length": 64000,
+    "depth_percent": 0.0,
+    "version": 1,
+    "needles": [
+        ""
+    ],
+    "test_duration_seconds": 0.0,
+    "test_timestamp_utc": "2025-03-28 18:15:53+0000",
+    "file_name": "gpt-4o-mini_len_64000_depth_0",
+    "model_response": "The proposed solution to address the issues affecting the OXCART aircraft's development involved the establishment of a dedicated team to focus on the aircraft's design and operational requirements. This team would work closely with the contractors to ensure that all technical challenges were addressed promptly and effectively, thereby streamlining the development process and enhancing the aircraft's performance capabilities.",
+    "score": 1
+}

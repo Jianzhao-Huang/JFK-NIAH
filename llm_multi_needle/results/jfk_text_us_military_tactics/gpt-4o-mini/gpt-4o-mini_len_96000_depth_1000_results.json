@@ -1,0 +1,14 @@
+{
+    "model": "gpt-4o-mini",
+    "context_length": 96000,
+    "depth_percent": 10.0,
+    "version": 1,
+    "needles": [
+        "On the military side, the US has used ultra-modern mechanized weapons to destroy armed units by tactics of area pacification. Thus harassed, the Vietnamese Communists are never secure."
+    ],
+    "test_duration_seconds": 1.1920928955078125e-06,
+    "test_timestamp_utc": "2025-03-27 21:47:37+0000",
+    "file_name": "gpt-4o-mini_len_96000_depth_10",
+    "model_response": "The document outlines that the U.S. used ultra-modern mechanized weapons to destroy armed units by employing tactics of area pacification. This approach aimed to harass the Vietnamese Communists, making them feel insecure. The strategy involved targeting specific locations and utilizing advanced weaponry to disrupt and dismantle the operational capabilities of the Communist forces.",
+    "score": 10
+}

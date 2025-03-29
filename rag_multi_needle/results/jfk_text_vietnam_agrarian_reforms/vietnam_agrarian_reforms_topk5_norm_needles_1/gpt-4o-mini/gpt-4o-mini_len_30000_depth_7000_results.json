@@ -1,0 +1,14 @@
+{
+    "model": "gpt-4o-mini",
+    "context_length": 30000,
+    "depth_percent": 70.0,
+    "version": 1,
+    "needles": [
+        "Economically, the Vietnamese Communist agrarian reforms have solved the land problem for the peasants and now constitute the food source for the troops and cadres."
+    ],
+    "model_response": "Vietnam's agrarian reforms have economically benefited peasants by solving the land problem, providing them with land ownership. This, in turn, has created a food source for the troops and cadres, supporting the military's needs.",
+    "score": 10,
+    "test_duration_seconds": 11.911091089248657,
+    "test_timestamp_utc": "2025-03-28 00:37:03+0000",
+    "file_name": "gpt-4o-mini_len_30000_depth_7000"
+}

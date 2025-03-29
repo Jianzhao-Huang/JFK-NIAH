@@ -7,6 +7,9 @@
 `bash jfk_test.sh`
 ## 指标计算与可视化
 将 `CreateVizFromLLMTesting.ipynb` 里的 `folder_path` 换成测试中保存结果的路径，运行即可。
+## 结果
+目前已经测试了gpt-4o-mini在64k到127k上下文情况下的表现，结果在`llm_multi_needle/results`和`rag_multi_needle/results`中。
+`llm_multi_needle/results_validate`中的结果是将needle设为空字符串后让LLM回答的结果，验证了needle的内容不存在与haystack中，也不存在于LLM的先验知识中。
 
 <br/>
 <br/>

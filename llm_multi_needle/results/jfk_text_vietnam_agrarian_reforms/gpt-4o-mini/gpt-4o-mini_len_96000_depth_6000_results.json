@@ -1,0 +1,14 @@
+{
+    "model": "gpt-4o-mini",
+    "context_length": 96000,
+    "depth_percent": 60.0,
+    "version": 1,
+    "needles": [
+        "Economically, the Vietnamese Communist agrarian reforms have solved the land problem for the peasants and now constitute the food source for the troops and cadres."
+    ],
+    "test_duration_seconds": 0.0,
+    "test_timestamp_utc": "2025-03-27 22:06:33+0000",
+    "file_name": "gpt-4o-mini_len_96000_depth_60",
+    "model_response": "Vietnam's agrarian reforms have economically benefited peasants by addressing land distribution and improving agricultural productivity. The reforms aimed to provide land to the peasantry, which enhanced their economic stability and food security. However, the military's interests were also intertwined with these reforms, as they sought to ensure loyalty among the peasantry and prevent dissent. The reforms were designed to support the military's objectives by fostering a stable rural environment, which was crucial for maintaining control and support during the conflict. Overall, while peasants gained from the reforms, the military leveraged these changes to strengthen its position and influence in rural areas.",
+    "score": 5
+}

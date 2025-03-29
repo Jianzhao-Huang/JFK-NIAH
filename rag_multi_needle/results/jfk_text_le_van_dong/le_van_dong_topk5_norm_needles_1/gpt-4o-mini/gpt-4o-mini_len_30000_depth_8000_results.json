@@ -1,0 +1,14 @@
+{
+    "model": "gpt-4o-mini",
+    "context_length": 30000,
+    "depth_percent": 80.0,
+    "version": 1,
+    "needles": [
+        "Le Van Dong, former Minister of Agriculture, said on 14 September 1962 that he had been advised by a reliable source in Cambodia that the Royal Cambodian Government (RKG) was planning to sever relations with South Vietnam."
+    ],
+    "model_response": "Le Van Dong learned about the Royal Cambodian Government's plan to sever relations with South Vietnam on 14 September 1962.",
+    "score": 10,
+    "test_duration_seconds": 11.963889837265015,
+    "test_timestamp_utc": "2025-03-27 21:27:36+0000",
+    "file_name": "gpt-4o-mini_len_30000_depth_8000"
+}

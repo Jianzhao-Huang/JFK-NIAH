@@ -1,0 +1,14 @@
+{
+    "model": "gpt-4o-mini",
+    "context_length": 1000,
+    "depth_percent": 10.0,
+    "version": 1,
+    "needles": [
+        "Mr. McCone did not favor continuing sabotage and guerrilla operations under Project MONGOOSE. He expressed concern about the future, fearing a potential confrontation in the coming days and the possibility of the Soviet Union activating the SAM sites in Cuba."
+    ],
+    "model_response": "Mr. McCone did not favor continuing sabotage and guerrilla operations under Project MONGOOSE.",
+    "score": 7,
+    "test_duration_seconds": 8.102633953094482,
+    "test_timestamp_utc": "2025-03-27 22:46:38+0000",
+    "file_name": "gpt-4o-mini_len_1000_depth_1000"
+}
